@@ -4,3 +4,4 @@ Basi di Git tramite VSCode
 --terzo commit
 --quarto commit Mattia
 --Quinto commit Francesco
+--SESTO commit Francesco
